@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"path": "../windows"
+		},
+		{
+			"path": "../web"
+		},
+		{
+			"path": "../test"
+		},
+		{
+			"path": "../macos"
+		},
+		{
+			"path": "../linux"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../ios"
+		},
+		{
+			"path": "../build"
+		},
+		{
+			"path": "../assets"
+		},
+		{
+			"path": "../android"
+		}
+	]
+}
